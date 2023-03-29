@@ -9,6 +9,13 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "set.prototype.difference": "^1.0.2",
+    "set.prototype.intersection": "^1.0.2",
+    "set.prototype.isdisjointfrom": "^1.0.2",
+    "set.prototype.issubsetof": "^1.0.1",
+    "set.prototype.issupersetof": "^1.0.2",
+    "set.prototype.symmetricdifference": "^1.0.2",
+    "set.prototype.union": "^1.0.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
